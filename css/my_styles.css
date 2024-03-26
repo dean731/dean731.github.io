@@ -1,0 +1,15 @@
+*{
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+
+.practice{
+    color:red;
+    font-size:50px;
+    text-align:center;
+    text-indent: 2em;
+}
+
+.blueblue{
+    color:blue;
+}
