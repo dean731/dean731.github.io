@@ -9,7 +9,7 @@ a{
 
 ul.ul-hover>li:hover {
     background-color: #003D79;
-    color:black;
+    color:rgb(138, 138, 138);
     font-size: larger;
 
 }
